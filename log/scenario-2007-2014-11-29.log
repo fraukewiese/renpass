@@ -1,0 +1,37 @@
+Log-File renpass-Scenario 2007
+Started on 2014-11-29 14:05:55
+2007
+2014
+1
+2
+hour
+2010
+standard
+status_quo_2010
+status_quo_2012
+germany2
+status_quo_2012
+moderate
+status_quo_2012
+status_quo_2012
+Demand 0.090846 TWh
+Residual Load 0.07102885689876 TWh
+1
+2
+Spil sums up to 0
+time_used_sec	part
+0	start
+0.7	Preparation of Parameters
+6.6	Residual Load
+2.7	Availability of thermal power plants
+0.4	Merit Order
+0	Regional Dispatch
+18	Exchange
+0	Dispatch tplus
+2.2	Pump exchange
+0	Filling Level tplus
+1	Results
+31.6	total
+10.4	total before timeloop
+20.2	total timeploop
+10.1	per timestep

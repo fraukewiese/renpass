@@ -1,0 +1,63 @@
+Log-File renpass-Scenario 1002
+Started on 2014-11-22 12:19:05
+1002
+2014
+1
+24
+hour
+2010
+standard
+status_quo_2010
+plus_5GW_north_south
+germany2_neighbours
+status_quo_2012
+moderate
+status_quo_2012
+status_quo_2012
+Demand 4.733844 TWh
+Residual Load 4.27016957223204 TWh
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Spil sums up to 9.20667354959005
+time_used_sec	part
+0	start
+1	Preparation of Parameters
+13.7	Residual Load
+3.5	Availability of thermal power plants
+12.1	Merit Order
+0.2	Regional Dispatch
+101.4	Exchange
+2.4	Dispatch tplus
+26.6	Pump exchange
+2.4	Filling Level tplus
+2.4	Results
+165.7	total
+30.5	total before timeloop
+132.8	total timeploop
+5.5	per timestep
+Log-File renpass-Scenario 1002
+Started on 2014-11-22 12:54:16
+Log-File renpass-Scenario 1002
+Started on 2014-11-22 13:24:54

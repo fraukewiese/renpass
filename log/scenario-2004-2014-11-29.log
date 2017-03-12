@@ -1,0 +1,37 @@
+Log-File renpass-Scenario 2004
+Started on 2014-11-29 14:04:30
+2004
+2024
+1
+2
+hour
+2010
+standard
+status_quo_2010
+plus_5GW_north_south
+germany2_neighbours
+NEP_2024_C_plus_neigbours_2012
+moderate
+status_quo_2012
+status_quo_2012
+Demand 0.396691 TWh
+Residual Load 0.30295218704616 TWh
+1
+2
+Spil sums up to 0.0105506193140172
+time_used_sec	part
+0	start
+0.8	Preparation of Parameters
+10.9	Residual Load
+3.1	Availability of thermal power plants
+0.9	Merit Order
+0.1	Regional Dispatch
+7.9	Exchange
+0.2	Dispatch tplus
+2.2	Pump exchange
+0.2	Filling Level tplus
+2.2	Results
+28.5	total
+15.8	total before timeloop
+10.5	total timeploop
+5.2	per timestep

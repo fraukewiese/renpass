@@ -1,0 +1,59 @@
+Log-File renpass-Scenario 4
+Started on 2014-11-16 18:45:11
+4
+2024
+4345
+4368
+hour
+2010
+standard
+status_quo_2010
+planned_2015_distance
+germany21_neighbours
+UBA_2050_Regionenverbund
+high
+status_quo_2012
+no_fossils
+Demand 4.737097 TWh
+Residual Load 3.80917657690643 TWh
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Spil sums up to 36.8364327001691
+time_used_sec	part
+0	start
+0.9	Preparation of Parameters
+11.7	Residual Load
+0.3	Availability of thermal power plants
+10.4	Merit Order
+2.4	Regional Dispatch
+77	Exchange
+5.2	Dispatch tplus
+31.4	Pump exchange
+2.8	Filling Level tplus
+2.8	Results
+144.9	total
+25.7	total before timeloop
+116.4	total timeploop
+4.9	per timestep
