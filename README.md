@@ -1,10 +1,10 @@
 # renpass
 Renewable Energy Pathways Simulation System
 
-DESCRIPTION
+DESCRIPTION   
 renpass (Renewable Energy Pathways Simulation System) is an open source simulation energy model (published under [GNU GPL 3](opensource.org/licenses/GPL-3.0)) which has the goal to fulfil the requirements of full transparency and the possibility to image 100% renewable energy systems as well as today's system on a high regional and time resolution.
 
-STATUS, FURTHER DEVELOPEMENT AND CONNECTION OTHER MODELS
+STATUS, FURTHER DEVELOPEMENT AND CONNECTION OTHER MODELS   
 renpass was developed by Frauke Wiese and Gesine Bökenkamp and contributions by others. The status on GitHub is from 2015. The model itself has not been further developed since then, but an open energy modelling framework [(oemof)](https://github.com/oemof/oemof) and the application [renpassG!S](https://github.com/znes/renpass_gis) have evolved from the initial idea of renpass, while being written in Python and providing extended functionality.
 
 AIM  
